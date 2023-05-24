@@ -21,10 +21,10 @@ programa
 	bonusDependentes = salarioBase*(qtdeDependentes*0.05)
 	novoSalario = salarioBase + valorGratificacao + bonusDependentes
 
-	escreva("O salário base é: ", salarioBase,"\n")
+	escreva("O salário base é: R$", salarioBase,"\n")
 	escreva("A quantidade de dependentes é: ", qtdeDependentes,"\n")
-	escreva("O valor da gratificação é: ",valorGratificacao,"\n")
-	escreva("O novo salário é: ",novoSalario)
+	escreva("O valor da gratificação é: R$",valorGratificacao,"\n")
+	escreva("O novo salário é: R$",novoSalario)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 685; 
+ * @POSICAO-CURSOR = 490; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
